@@ -17,3 +17,10 @@
   - [Website](https://pugixml.org/)
   - Also a light-weight, fast and portable c++ library for processing XMLs.
 - *Visual Studio 2022*
+***
+## Functions
+- Pathfinding Algo. for navigation.
+- Graph coloring Algo. for shelters recommendation.
+- The basic function of drawing, view changing and information display on a map(I chose the map of Chengdu, which is my hometown).
+- Add your own shelter on the map!!
+- Check **Manual.pdf** (Chinese version) and **PJ_Help.cpp** (English version), function **Help()** specifically, for more help.
